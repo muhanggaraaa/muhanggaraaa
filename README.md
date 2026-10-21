@@ -5,7 +5,6 @@ Data Science Specialist | Informatics Student @ UNTIRTA | Python - Machine Learn
 ## Projects
 
 - **[Detektor Hoaks Indonesia](https://github.com/muhanggaraaa/hoax-detector-id)** - Klasifikasi berita hoaks/valid dari 33.695 artikel berita Indonesia. Logistic Regression, akurasi test 87,7%. Notebook + demo web.
-- **[Analisis E-Commerce (Olist)](https://github.com/muhanggaraaa/ecommerce-olist-analysis)** - Analisis data e-commerce Brazil: RFM segmentation (8.279 Champions), pengaruh keterlambatan kirim ke skor review, dashboard Streamlit 3 tab.
 - **[IDX Stock Predictor](https://github.com/muhanggaraaa/idx-stock-predictor)** - Prediksi pergerakan harga saham IDX, crypto, dan emas pakai fitur teknikal + backtest walk-forward.
 
 ## Skills
