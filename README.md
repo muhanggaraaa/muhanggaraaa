@@ -3,7 +3,7 @@
 <div align="center">
 
   <a href="https://github.com/muhanggaraaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhamad+Anggara+Ramadhan;Data+Science+Specialist;Web+Developer+(Next.js+%26+TypeScript);Informatics+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhamad+Anggara+Ramadhan;Data+Science+Specialist;Web+Developer;Informatics+Student" alt="Typing SVG" />
   </a>
 
 </div>
