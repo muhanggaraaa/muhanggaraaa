@@ -25,7 +25,7 @@ class Anggara:
     def __init__(self):
         self.name = "Muhamad Anggara Ramadhan"
         self.location = "Cilegon, Indonesia 🇮🇩"
-        self.education = "S1 Informatics @ Universitas Sultan Ageng Tirtayasa (UNTIRTA)"
+        self.education = "S1 Informatics, Universitas Sultan Ageng Tirtayasa (UNTIRTA)"
         self.current_role = "Data Science Specialist Cohort, Asah 2026 (Dicoding & GoTo)"
         self.previous_exp = "Web Dev & UI/UX Independent Study @ VINIX7"
         self.interests = ["Data Science", "Machine Learning", "NLP", "Web Development"]
