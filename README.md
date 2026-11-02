@@ -3,7 +3,7 @@
 <div align="center">
 
   <a href="https://github.com/muhanggaraaa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhamad+Anggara+Ramadhan;Data+Science+Specialist+%40+Asah+2026;Full-Stack+Web+Developer+(Next.js+%26+TypeScript);Informatics+Student+%40+UNTIRTA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhamad+Anggara+Ramadhan;Data+Science+Specialist;Web+Developer+(Next.js+%26+TypeScript);Informatics+Student" alt="Typing SVG" />
   </a>
 
 </div>
@@ -18,9 +18,9 @@ class Anggara:
         self.name = "Muhamad Anggara Ramadhan"
         self.location = "Cilegon, Indonesia 🇮🇩"
         self.education = "S1 Informatics @ Universitas Sultan Ageng Tirtayasa (UNTIRTA)"
-        self.current_role = "Data Science Specialist Cohort @ Asah 2026 (Dicoding & GoTo)"
+        self.current_role = "Data Science Specialist Cohort, Asah 2026 (Dicoding & GoTo)"
         self.previous_exp = "Web Dev & UI/UX Independent Study @ VINIX7"
-        self.interests = ["Data Science", "Machine Learning", "NLP", "Full-Stack Web Dev"]
+        self.interests = ["Data Science", "Machine Learning", "NLP", "Web Development"]
 ```
 
 - 🔭 Currently focusing on **Data Analysis, Machine Learning, and NLP** in **Asah 2026 (Dicoding & GoTo)**
