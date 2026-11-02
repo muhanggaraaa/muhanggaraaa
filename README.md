@@ -1,7 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=header" alt="Header Banner" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=header" alt="Header Banner" />
 <h1 align="center">Hi there, I'm Muhamad Anggara Ramadhan</h1>
-
 <div align="center">
 
   <a href="https://github.com/muhanggaraaa">
