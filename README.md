@@ -1,21 +1,21 @@
-&lt;img width=&quot;100%&quot; src=&quot;https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20&amp;height=120&amp;section=header&quot; alt=&quot;Header Banner&quot; /&gt;
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=header" alt="Header Banner" />
 
-&lt;div align=&quot;center&quot;&gt;
+<div align="center">
 
-  &lt;a href=&quot;https://github.com/muhanggaraaa&quot;&gt;
-    &lt;img src=&quot;https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there%2C+I&#39;m+Muhamad+Anggara+Ramadhan;Data+Science+Specialist+%40+Asah+2026;Full-Stack+Web+Developer+(Next.js+%26+TypeScript);Informatics+Student+%40+UNTIRTA&quot; alt=&quot;Typing SVG&quot; /&gt;
-  &lt;/a&gt;
+  <a href="https://github.com/muhanggaraaa">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhamad+Anggara+Ramadhan;Data+Science+Specialist+%40+Asah+2026;Full-Stack+Web+Developer+(Next.js+%26+TypeScript);Informatics+Student+%40+UNTIRTA" alt="Typing SVG" />
+  </a>
 
   <br/>
 
-  &lt;a href=&quot;https://github.com/muhanggaraaa&quot;&gt;
-    &lt;img src=&quot;https://komarev.com/ghpvc/?username=muhanggaraaa&amp;label=Profile%20Views&amp;color=0284c7&amp;style=for-the-badge&quot; alt=&quot;Profile Views&quot; /&gt;
-  &lt;/a&gt;
-  &lt;a href=&quot;https://github.com/muhanggaraaa?tab=followers&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/github/followers/muhanggaraaa?label=Followers&amp;style=for-the-badge&amp;color=2563eb&quot; alt=&quot;Followers&quot; /&gt;
-  &lt;/a&gt;
+  <a href="https://github.com/muhanggaraaa">
+    <img src="https://komarev.com/ghpvc/?username=muhanggaraaa&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/muhanggaraaa?tab=followers">
+    <img src="https://img.shields.io/github/followers/muhanggaraaa?label=Followers&style=for-the-badge&color=2563eb" alt="Followers" />
+  </a>
 
-&lt;/div&gt;
+</div>
 
 ---
 
@@ -39,77 +39,69 @@ class Anggara:
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :--- |
-| **TaskKu** | `Next.js 15` `TypeScript` `Tailwind` `Supabase` `Zod` | Full-stack student task manager with real-time deadline filtering, Server Actions, Optimistic UI, dark mode, and protected routes. | [Repo](https://github.com/muhanggaraaa/TaskKu) · [Live Demo](https://task-ku-eight.vercel.app/) |
-| **Olist E-Commerce Analytics** | `Python` `pandas` `Seaborn` `Streamlit` | Interactive dashboard analyzing 2017–2018 Brazilian e-commerce performance via RFM customer segmentation, delivery clustering, and geospatial mapping. | [Repo](https://www.google.com/search?q=https://github.com/muhanggaraaa/dashboard-analisis-olist) · [Live App](https://muhanggaraaa-olist-ecommerce-dashboard.streamlit.app) |
-
----
-
 ## 🛠️ Tech Stack
 
-&lt;div align=&quot;center&quot;&gt;
+<div align="center">
 
 ### 📊 Data Science & Machine Learning
 
-
-
-
-
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
 ### 🌐 Web Development
 
-
-
-
-
-
-
-
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 ### 🗄️ Database, Cloud & Tools
 
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
-
-
-
-
-
-
-
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 🤝 Connect with Me
 
-&lt;div align=&quot;center&quot;&gt;
+<div align="center">
 
-[](https://www.linkedin.com/in/muhamad-anggara-ramadhan/)
-[Portfolio](https://www.google.com/search?q=https://muhanggaraaa.web.id)
-[](mailto:muh.anggaraaa@gmail.com)
-[YouTube](https://www.google.com/search?q=https://www.youtube.com/%40muh.anggaraaa)
+[LinkedIn](https://www.linkedin.com/in/muhamad-anggara-ramadhan/) · [Portfolio](https://muhanggaraaa.web.id) · [Email](mailto:muh.anggaraaa@gmail.com) · [YouTube](https://www.youtube.com/@muh.anggaraaa)
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img width=&quot;49%&quot; height=&quot;180px&quot; src=&quot;https://github-readme-stats.vercel.app/api?username=muhanggaraaa&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&quot; alt=&quot;GitHub Stats&quot; /&gt;
-  &lt;img width=&quot;41%&quot; height=&quot;180px&quot; src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=muhanggaraaa&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&quot; alt=&quot;Top Languages&quot; /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=muhanggaraaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhanggaraaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img width=&quot;90%&quot; src=&quot;https://streak-stats.demolab.com?user=muhanggaraaa&amp;theme=tokyonight&amp;hide_border=true&quot; alt=&quot;GitHub Streak&quot; /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=muhanggaraaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img width=&quot;92%&quot; src=&quot;https://github-readme-activity-graph.vercel.app/graph?username=muhanggaraaa&amp;custom_title=Anggara&#39;s%20Contribution%20Graph&amp;theme=tokyo-night&amp;hide_border=true&quot; alt=&quot;Contribution Graph&quot; /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhanggaraaa&custom_title=Anggara's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
 
-&lt;img width=&quot;100%&quot; src=&quot;https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20&amp;height=100&amp;section=footer&quot; alt=&quot;Footer Banner&quot; /&gt;
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" alt="Footer Banner" />
