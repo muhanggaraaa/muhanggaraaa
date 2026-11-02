@@ -6,15 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhamad+Anggara+Ramadhan;Data+Science+Specialist+%40+Asah+2026;Full-Stack+Web+Developer+(Next.js+%26+TypeScript);Informatics+Student+%40+UNTIRTA" alt="Typing SVG" />
   </a>
 
-  <br/>
-
-  <a href="https://github.com/muhanggaraaa">
-    <img src="https://komarev.com/ghpvc/?username=muhanggaraaa&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/muhanggaraaa?tab=followers">
-    <img src="https://img.shields.io/github/followers/muhanggaraaa?label=Followers&style=for-the-badge&color=2563eb" alt="Followers" />
-  </a>
-
 </div>
 
 ---
