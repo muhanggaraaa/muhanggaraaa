@@ -92,16 +92,7 @@ class Anggara:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=muhanggaraaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhanggaraaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img width="90%" src="https://streak-stats.demolab.com?user=muhanggaraaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhanggaraaa&custom_title=Anggara's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" alt="Footer Banner" />
