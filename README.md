@@ -44,17 +44,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [Detektor Hoaks Indonesia](https://github.com/muhanggaraaa/hoax-detector-id) | Hoax news classification for Indonesian articles - 33,695 news articles, Logistic Regression with 87.7% test accuracy, notebook + web demo | Python, scikit-learn |
-| [IDX Stock Predictor](https://github.com/muhanggaraaa/idx-stock-predictor) | Price movement prediction for IDX stocks, crypto, and gold using technical features with walk-forward backtest | Python, pandas |
-| [TaskKu](https://github.com/muhanggaraaa/TaskKu) | Task management app for students | TypeScript |
-| [Peminjaman Ruangan](https://github.com/muhanggaraaa/peminjaman-ruangan) | Room booking web app | PHP |
-
----
-
 ### GitHub Stats
 
 <p align="center">
