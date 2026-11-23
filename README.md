@@ -1,5 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=header" alt="Header Banner" />
-<h1 align="center">Hi there, I'm Muhamad Anggara Ramadhan</h1>
+<img width="100%" src="assets/header.svg" alt="Muhamad Anggara Ramadhan" />
+
 <div align="center">
 
   <a href="https://github.com/muhanggaraaa">
@@ -14,9 +14,9 @@
 
 </div>
 
----
+<img width="100%" src="assets/about.svg" alt="About Me" />
 
-## 👨‍💻 About Me
+I'm a final-year Informatics student at UNTIRTA. I got into data science the long way: computer networks first, then web development and UI/UX, now data. Because of that path, I tend to carry an analysis all the way to something people can open and use, not stop at a chart in a notebook.
 
 ```python
 class Anggara:
@@ -26,70 +26,40 @@ class Anggara:
         self.education = "S1 Informatics, Universitas Sultan Ageng Tirtayasa (UNTIRTA)"
         self.current_role = "Data Science Specialist Cohort, Asah 2026 (Dicoding & GoTo)"
         self.previous_exp = "Web Dev & UI/UX Independent Study, VINIX7"
-        self.interests = ["Data Science", "Machine Learning", "NLP", "Web Development"]
 ```
 
-- 🔭 Currently focusing on **Data Analysis, Machine Learning, and NLP** in **Asah 2026 (Dicoding & GoTo)**
-- 🌱 Building full-stack web apps with **Next.js, TypeScript, Tailwind CSS, and Supabase**
-- 💡 Experienced in end-to-end product development from **UI/UX research & Figma prototyping** to production deployment
-- 💬 Ask me about **Python, Data Analytics, Next.js, TypeScript, and SQL**
+**🧠 What I'm into**
 
----
+- Machine learning and NLP, especially for Indonesian text
+- Data storytelling: turning tables into decisions
+- Shipping small tools that solve one real problem well
 
-## 🛠️ Tech Stack
+**⚡ Quick facts**
+
+- 📍 Based in Cilegon, Indonesia
+- 💬 Ask me about Python, SQL, scikit-learn, or Streamlit
+- 🤝 Open to internships and collaborations in data
+
+<img width="100%" src="assets/building.svg" alt="What I'm Building" />
+
+- 🏪 A stock recording and purchase recommendation system for **Ayam Geprek Sarjana (KOPMA UNY)** - capstone project at Asah 2026 with team A26-CS281. My part is the data side: wrangling, exploration, and descriptive analysis
+- 🎬 [Movie Recommender System](https://github.com/muhanggaraaa/movie-recommender-system) - item-based collaborative filtering on MovieLens 100K, RMSE 0.861 vs 1.049 for the dumb baseline
+- 📰 An Indonesian hoax news detector - logistic regression on 33,695 news articles, 87.7% test accuracy
+
+<img width="100%" src="assets/techstack.svg" alt="Tech Stack" />
+
+<img width="100%" src="assets/stack.svg" alt="Tech stack panels" />
+
+<img width="100%" src="assets/stats.svg" alt="GitHub Analytics" />
 
 <div align="center">
-
-### 📊 Data Science & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### 🗄️ Database, Cloud & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
+  <img width="55%" src="https://streak-stats.demolab.com?user=muhanggaraaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-## 🤝 Connect with Me
+<img width="100%" src="assets/connect.svg" alt="Connect with Me" />
 
 <div align="center">
 
 [LinkedIn](https://www.linkedin.com/in/muhamad-anggara-ramadhan/) · [Portfolio](https://muhanggaraaa.web.id) · [Email](mailto:muh.anggaraaa@gmail.com) · [YouTube](https://www.youtube.com/@muh.anggaraaa)
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="55%" src="https://streak-stats.demolab.com?user=muhanggaraaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" alt="Footer Banner" />

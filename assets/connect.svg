@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="72" viewBox="0 0 880 72">
+<rect width="880" height="72" rx="12" fill="#0b2239"/>
+<rect x="1" y="1" width="878" height="70" rx="11" fill="none" stroke="#1f4b6b"/>
+<rect x="22" y="18" width="36" height="36" rx="9" fill="#38bdf8" opacity="0.18"/>
+<circle cx="40" cy="36" r="7" fill="#38bdf8"/>
+<text x="74" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#e6edf3">Connect with Me</text>
+<text x="74" y="58" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#9fb3c8">LinkedIn, portfolio, email, YouTube</text>
+</svg>
