@@ -1,5 +1,7 @@
 <img width="100%" src="assets/header.svg" alt="Muhamad Anggara Ramadhan" />
 
+<img width="100%" src="assets/marquee.svg" alt="Skills marquee" />
+
 <div align="center">
 
   <a href="https://github.com/muhanggaraaa">
