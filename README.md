@@ -62,6 +62,6 @@ class Anggara:
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/muhamad-anggara-ramadhan/) · [Portfolio](https://muhanggaraaa.web.id) · [Email](mailto:muh.anggaraaa@gmail.com) · [YouTube](https://www.youtube.com/@muh.anggaraaa)
+[LinkedIn](https://www.linkedin.com/in/muhamad-anggara-ramadhan/) · [Email](mailto:muh.anggaraaa@gmail.com) · [YouTube](https://www.youtube.com/@muh.anggaraaa)
 
 </div>
